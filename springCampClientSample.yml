@@ -36,7 +36,7 @@ db:
   driver: org.h2.Driver
   url: jdbc:h2:mem:local;DB_CLOSE_DELAY=-1;MODE=Oracle;TRACE_LEVEL_SYSTEM_OUT=2
   user: sa
-  password: "123"
+  password: "123111111"
 ---
 spring.profiles: local_oracle
 
